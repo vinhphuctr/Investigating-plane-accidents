@@ -4,7 +4,7 @@ In this project, I will be working with a data set containing 77,282 aviation ac
 
 I'm going to walkthrough this project by:
 1. Cleaning the data.
-2. Using functions to:
+2. Using algorithms to:
 
   2a. Search for a string like "LAX94LA336" through rows.
   
