@@ -1,4 +1,4 @@
-# Investigating-plane-accidents
+# Investigating Airplane Accidents
 
 In this project, I will be working with a data set containing 77,282 aviation accidents that occured in the U.S., and the metadata associated with them. The data is stored in the `AviationData.txt` file coming from the National Transportation Safety Board (NTSB).
 
